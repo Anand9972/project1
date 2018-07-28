@@ -9,8 +9,8 @@
     <div class="main">
         <div class="left">
              <img src="profile.png" alt="">
-             <h4 id="name">supriya</h4>
-             <h4 style="color:red">+91-8346237621</h4>
+             <h4 id="name">anand</h4>
+             <h4 style="color:red">+91-99999999</h4>
              <a href="mailto:supriyakonakanchi20@gmail.com">supriyakonakanchi20@gmail.com</a>
              <h2>address:</h2>
              <hr>
